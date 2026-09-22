@@ -19,10 +19,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashh1975/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/yashh1975/Leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashh1975/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/yashh1975/Leetcode/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -31,4 +33,8 @@
 |  |
 | ------- |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/yashh1975/Leetcode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/yashh1975/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
